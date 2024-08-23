@@ -16,7 +16,7 @@ print(a**3)
 print(28//6)
 e=(1+3)/2
 f=4+5*2
-# (),exponents,*,/,+,-
+# (),exponents,*,/,+,- operator precedence
 print(e)
 print(f)"""
 # write a program that reads 2 numbers from user and perform +,-,*,/ on those numbers 

@@ -1,6 +1,6 @@
-'''int : 1, 3, 5, 7, -3, 0 
-float : 1.0, 0.9, -0.7, 5.6
-string(str) "hello", "0.2", "-98", "true", "False" '''
+#'''int : 1, 3, 5, 7, -3, 0 
+#float : 1.0, 0.9, -0.7, 5.6
+#string(str) "hello", "0.2", "-98", "true", "False" '''
 # bool : True, False
 # a = True
 # print(type(a)) 
@@ -15,4 +15,4 @@ string(str) "hello", "0.2", "-98", "true", "False" '''
 
 # problem dynamically read the name and say hello name 
 name = input("please enter your name: ")
-print("hello", name )
+#print("hello", name )
